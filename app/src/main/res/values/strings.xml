@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">Retail Shop</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_text">Select song from below to play</string>
+    <string name="standard">Standard</string>
+    <string name="title_changelog">Change log</string>
+    <string name="changelog_close">Close</string>
+    <string name="action_hide">Hide Panel</string>
+    <string name="action_show">Show Panel</string>
+    <string name="action_anchor_enable">Enable Anchor Point</string>
+    <string name="action_anchor_disable">Disable Anchor Point</string>
+    <string name="idle">Idle</string>
+    <string name="crash_toast_text">Oops Crashe Occurred</string>
+    <string name="offer_banner">"Shop for 2000 to get CZK 100 discount and shop for 3000 to get CZK 200 discount"</string>
+    <string name="checkout">CheckOut</string>
+    <string name="similar_product">You may also like</string>
+    <string name="slogan">Assignment</string>
+    <string name="email_developer_">Email Developer:</string>
+    <string name="personal_website_">Personal Website :</string>
+    <string name="site_layth">https://github.com/LaythAl-Zamili</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="mob_num">00240737243088</string>
+    <string name="lab_locations">Locations</string>
+    <string name="pune">Czech Republic</string>
+    <string name="address_value">Sibiřská 1103/64, Brno-Řečkovice a Mokrá Hora</string>
+
+    <string name="look_like_you_are_offline_n_for_better_experience_use_application_online">Look like you are Offline. \n For better experience use Application online</string>
+    <string name="ok_got_it">Ok Got it</string>
+    <string name="todo">TODO</string>
+    <string name="hiteshkumarsahu1990_gmail_com">laithalzamely@gmail.com</string>
+    <string name="Layth_AlZamili">Layth Al-Zamili</string>
+    <string name="developer_name">Developer Name :</string>
+    <string name="address">Address</string>
+    <string name="your_cart_is_empty">Your cart is Empty</string>
+    <string name="continue_shopping">Continue Shopping</string>
+    <string name="start_shopping">START SHOPPING</string>
+
+    <string name="top_selling">Top Selling</string>
+
+    <string name="lets_fill_it_by_shopping_new_items">Lets fill it by shopping new items</string>
+
+    <string name="search_product">Search Product</string>
+    <string name="what_do_you_wish_for">What do you wish for ?</string>
+    <string name="available">Available</string>
+    <string name="item_description">Item description</string>
+    <string name="item_name">Item Name</string>
+    <string name="CZK_20">CZK 20</string>
+    <string name="_0">0</string>
+    <string name="new_arrivals">NEW ARRIVALS</string>
+
+    <string name="shop_for_2000_to_get_czk_100_discount_and_shop_for_3000_to_get_czk_200_discount">Shop for 2000 to get CZK 100 discount and Shop for 3000 to get CZK 200 discount</string>
+
+</resources>
